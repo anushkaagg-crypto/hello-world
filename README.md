@@ -1,2 +1,2 @@
 # hello-world
-just another repository
+hi this is anushka im trying to understand repositories
